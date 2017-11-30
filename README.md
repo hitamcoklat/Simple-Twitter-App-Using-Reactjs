@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Installation
 
 Install the dependencies and devDependencies and start the server.
@@ -12,3 +13,6 @@ $ npm start
 
 You can use your own Twitter API. For example I use this https://twitteroauth.com/ for my API Application.
 
+=======
+# Simple-Twitter-App-Using-Reactjs
+>>>>>>> a3dade8159495f4aded8f312170a1bbb43f42082
