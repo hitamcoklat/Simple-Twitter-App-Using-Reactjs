@@ -13,3 +13,6 @@ $ npm start
 ### Twitter API
 
 You can use your own Twitter API. For example I use this https://twitteroauth.com/ for my API Application.
+
+### Screenshot
+![Alt text](src/twitter-app-screenshot.png?raw=true "1")
